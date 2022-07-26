@@ -10,7 +10,7 @@ int main()
     int i;
 
         printf("Veillez entrez votre Nom svp: ");
-        scanf("%s", NomElev);
+        fgets(NomElev, 50, stdin);
     
     for (int i = 0; i < 2; i++)
     {
