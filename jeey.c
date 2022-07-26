@@ -5,7 +5,7 @@ int verif(char reponse[25]);
 int main()
 {
 /*/Déclaration des variables/*/
-    int tab[3]={12345,1234,123};
+    int tab[3]={12345,1234,125};
     char reponse[25];
     int i=0;                        
     int cpt=0;
